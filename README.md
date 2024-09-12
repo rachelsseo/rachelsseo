@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Rachel Seo and I am a second-year BSDS student at the University of Virginia School of Data Science! 
 <!--
 **rachelsseo/rachelsseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
